@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">"数据层 "</string>
+    <string name="server_internal_error">服务器接口出错</string>
+    <string name="cannot_connected_server">连接服务器失败</string>
+    <string name="cannot_connected_server_out_time">连接超时</string>
+    <string name="cannot_no_connected">没有网络连接</string>
+
+</resources>

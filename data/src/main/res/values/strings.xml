@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">"Data "</string>
+    <string name="server_internal_error">server_internal_error</string>
+    <string name="cannot_connected_server">cannot_connected_server</string>
+    <string name="cannot_connected_server_out_time">cannot_connected_server_out_time</string>
+    <string name="cannot_no_connected">cannot_no_connected</string>
+
+</resources>
